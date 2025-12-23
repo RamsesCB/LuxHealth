@@ -1,0 +1,7 @@
+Copyright (c) 2025 Ramses CB
+
+Todos los derechos reservados.
+
+El uso, copia, modificación, distribución o venta de este código fuente,
+ya sea en su totalidad o en parte, está estrictamente prohibido sin
+el consentimiento previo y por escrito del autor.
