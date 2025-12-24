@@ -67,7 +67,7 @@
             
   <p>
                 <strong>Enlace de descarga:</strong> 
-                <a href="https://github.com/RamsesCB/LuxHealth">https://github.com/RamsesCB/LuxHealth</a>
+                <a href="https://github.com/RamsesCB/LuxHealth/releases/download/App/app-release.apk">Haz click aquí>
             </p>
             
    <p><em>Nota: Al ser una versión en desarrollo, recuerda activar el permiso de "Fuentes desconocidas" en los ajustes de tu celular para completar la instalación de manera exitosa.</em></p>
