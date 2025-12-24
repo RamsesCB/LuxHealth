@@ -73,7 +73,7 @@
    <p><em>Nota: Al ser una versión en desarrollo, recuerda activar el permiso de "Fuentes desconocidas" en los ajustes de tu celular para completar la instalación de manera exitosa.</em></p>
         </section>
         <footer>
-            <p><small>© 2024 LuxHealth Project</small></p>
+            <p><small>© 2025 LuxHealth Project</small></p>
         </footer>
     </main>
 
